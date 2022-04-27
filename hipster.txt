@@ -1,7 +1,0 @@
-hello it is a file with something i.e some random data
-
-this is para 2
- 
-this is para 3
-
-this is para 4
